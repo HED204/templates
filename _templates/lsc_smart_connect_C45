@@ -4,7 +4,7 @@ title: LSC C45 400lm
 model: 970720 v2.0
 link: https://www.action.com/de-de/p/lsc-smart-connect-slimme-multicolor-ledlamp--48e7b6db/
 image: https://www.action.com/globalassets/cmsarticleimages/79/64/2578517_8712879142713-111_01.png
-template: '{"NAME":"LSC RGBCW E14","GPIO":[0,0,0,0,0,0,0,0,181,0,180,0,0],"FLAG":0,"BASE":18}' 
+template: '{"NAME":"LSC RGBCW E14","GPIO":[0,0,0,0,0,0,0,0,4064,0,4032,0,0,0],"FLAG":0,"BASE":18}' 
 link2: 
 mlink: 
 flash: tuya-convert
